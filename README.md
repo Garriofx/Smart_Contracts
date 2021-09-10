@@ -1,4 +1,5 @@
-# Smart_Contract
+# Smart Contract With Solidity
+
 ![image](https://user-images.githubusercontent.com/81495204/132802005-008b78b6-f2ef-4ca3-8e16-ba7b7d963515.png)
 
 New startup has created its own Ethereum-compatible blockchain to help connect financial institutions, and the team wants to build smart contracts to automate some company finances to make everyone's lives easier, increase transparency, and to make accounting and auditing practically automatic!
